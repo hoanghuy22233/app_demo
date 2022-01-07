@@ -1,0 +1,4 @@
+#Fri Jan 07 22:53:44 ICT 2022
+base.0=/Users/hoanghuy2302/Desktop/app_demo/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
